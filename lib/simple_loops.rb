@@ -3,5 +3,5 @@ def loop_message_five_times(message)
 end
 
 def loop_message_n_times(message, number)
-  puts "Hello Moon"
+  5.times {puts "Hello Moon"}
 end
